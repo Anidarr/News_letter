@@ -36,7 +36,7 @@ const url="https://us17.api.mailchimp.com/3.0/lists/f2356de632";
 
 const options={
     method:"POST",
-    auth:"Aniket1:78f17926520df2e8ddfa3bc9dc1d8dbf-us17"
+    auth:"Aniket1:0ba0b900750fa0c17598b2208d73352a-us17"
 }
 const request=https.request(url, options, function(response){
 
